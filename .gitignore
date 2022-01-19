@@ -1,0 +1,12 @@
+# intellij
+.idea/
+*.iml
+
+# gradle
+.gradle
+/build/
+
+# misc
+.java-version
+/**/.DS_Store
+@
